@@ -7,11 +7,15 @@
 - Une classe Arene pouvant contenir une liste d'objets de type Objet3D
 
 
-==>Pour Chaque classe, ce réferer au fichier de test associé pour l'illustration des méthodes implémentée (majoritairement de déplacement et d'ajout)
+==> Pour Chaque classe:
 
-==>Remarques:
+  ce réferer au fichier de test associé pour l'illustration des méthodes implémentée (majoritairement de déplacement et d'ajout)
+
+
+==> Remarques:
 
   La méthode deplacer de Point et Objet3D prends en argument un vecteur (normalement). Pour les tests, je me suis servit d'un point 
   à la place d'un vecteur.
   
-  D'ailleurs, la méthode add(objet3D) dans Arene.py ne marche peut être pas avec des classes qui héritent de Objet3D.
+  La méthode add(objet3D) dans Arene.py ne marche peut être pas avec des classes qui héritent de Objet3D.
+  
