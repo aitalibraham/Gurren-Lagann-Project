@@ -4,7 +4,7 @@
 
 - Une clase Objet3D, avec une liste de points (sommets) et un point central
 
-- Une classe Arène pouvant contenir une liste d'objets de type Objet3D
+- Une classe Arene pouvant contenir une liste d'objets de type Objet3D
 
 
 Pour Chaque classe, ce réferer au fichier de test associé pour l'illustration des méthodes implémentée (majoritairement de déplacement et d'ajout)
